@@ -3,7 +3,7 @@
 ## Convention BEM
 
 * B -> Block
-* E -> ELement
+* E -> Element
 * M -> Modifier
 
 
